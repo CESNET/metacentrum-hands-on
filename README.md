@@ -5,4 +5,4 @@
 # Table of contents 
 
 ## 2023
-- [Institute of Biophysics of the Czech Academy of Sciences, Brno, 30<sup>th</sup> November](./2023-11_IBP)
+- [Institute of Biophysics of the Czech Academy of Sciences, Brno, 30<sup>th</sup> November](2023-11_IBP.md)
