@@ -4,7 +4,11 @@
 
 # Table of contents 
 
+## 2026
+- [National Institute of Mental Health, Prague, 9<sup>th</sup> February](2026-02_NIMH.md)
+  
 ## 2025
 - [The Faculty of Informatics, Masaryk University Brno, 4<sup>th</sup> November](2025-11_FIMUNI.md)
+
 ## 2023
 - [Institute of Biophysics of the Czech Academy of Sciences, Brno, 30<sup>th</sup> November](2023-11_IBP.md)
