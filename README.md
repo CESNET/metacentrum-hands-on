@@ -5,7 +5,7 @@
 # Table of contents 
 
 ## 2026
-- [The Institute of Microbiology of the Czech Academy of Sciences, Prague, 25<sup>th</sup> March](2026-03_IMIC.md)
+- [The Institute of Microbiology of the Czech Academy of Sciences, Prague, 25 March](2026-03_IMIC.md)
 - [National Institute of Mental Health, Prague, 9<sup>th</sup> February](2026-02_NIMH.md)
   
 ## 2025
