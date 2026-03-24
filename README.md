@@ -6,10 +6,10 @@
 
 ## 2026
 - [The Institute of Microbiology of the Czech Academy of Sciences, Prague, 25 March](2026-03_IMIC.md)
-- [National Institute of Mental Health, Prague, 9<sup>th</sup> February](2026-02_NIMH.md)
+- [National Institute of Mental Health, Prague, 9 February](2026-02_NIMH.md)
   
 ## 2025
-- [The Faculty of Informatics, Masaryk University Brno, 4<sup>th</sup> November](2025-11_FIMUNI.md)
+- [The Faculty of Informatics, Masaryk University Brno, 4 November](2025-11_FIMUNI.md)
 
 ## 2023
-- [Institute of Biophysics of the Czech Academy of Sciences, Brno, 30<sup>th</sup> November](2023-11_IBP.md)
+- [Institute of Biophysics of the Czech Academy of Sciences, Brno, 30 November](2023-11_IBP.md)
